@@ -25,7 +25,7 @@ SECRET_KEY = '-e*1kpjm1!bmvg^8wnk+ss(rsb(&e5_d2sh&^522k05^97jmi5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mywetapp.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['ec2-18-217-18-24.us-east-2.compute.amazonaws.com','0.0.0.0']
 
 
 # Application definition
